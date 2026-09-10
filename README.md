@@ -1,2 +1,2 @@
-# cofee shop
- demo project of cofee shop
+# coffee shop
+ demo project of coffee shop
